@@ -1,0 +1,36 @@
+.div1
+{
+background-color:red;
+color:blue;
+}
+
+#div2
+{
+background-color:blue;
+font-size:20px;
+}
+.topnav
+{
+background-color:black;
+overflow:hidden;
+}
+.topnav a
+{
+float:left;
+color:red;
+text-align:center;
+padding:14x 16x;
+text-decoration:none;
+font-size:17x;
+}
+.footer
+{
+
+display:block;
+}
+.tab
+{
+color:red;
+font-size:40x;
+}
+
